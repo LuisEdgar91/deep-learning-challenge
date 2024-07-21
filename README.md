@@ -1,6 +1,6 @@
 # Alphabet Soup Charity Funding Success Prediction
 
-Alphabet Soup Charity Funding Success Prediction
+
 Overview of the Analysis
 The purpose of this analysis is to develop a binary classification model that can predict whether applicants funded by Alphabet Soup will be successful in their ventures. By analyzing a dataset of organizations that have received funding in the past, we aim to identify key features that contribute to success and build a neural network to assist Alphabet Soup in making data-driven funding decisions.
 
