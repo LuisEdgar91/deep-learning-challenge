@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Alphabet Soup Charity Funding Success Prediction
 
 Alphabet Soup Charity Funding Success Prediction
 Overview of the Analysis
